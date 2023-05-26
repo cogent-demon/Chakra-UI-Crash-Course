@@ -5,7 +5,7 @@ import {
   RouterProvider 
 } from 'react-router-dom'
 
-// layouts and pages
+// layouts    and    pages
 import RootLayout from './layouts/RootLayout'
 import Dashboard from './pages/Dashboard'
 import Create from './pages/Create'
